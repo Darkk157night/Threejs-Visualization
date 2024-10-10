@@ -11,6 +11,10 @@
     - `npm install` to get the necessary packages
     - `node server.js` to get started with the server
 
+4) Arduino libraries to install
+    - Adafruit MPU6050 
+    - ArduinoJson
+
 ## Updates to be made 
 
 - [ ] Much better JSON format handling by the server and better parsing of JSON data from adruino

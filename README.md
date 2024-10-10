@@ -11,4 +11,8 @@
     - `npm install` to get the necessary packages
     - `node server.js` to get started with the server
 
+## Updates to be made 
+
+- [ ] Much better JSON format handling by the server and better parsing of JSON data from adruino
+- [ ] Inclusion of more sensors (GNSS module,pressure sensor and more)
 
